@@ -1,1 +1,11 @@
-New file for bug_repport
+{
+  'functionalBugs': [
+      'login': 'faild' 
+      'refreshSite': 'passed' 
+      'signIn': 'passed'
+      ]
+  'nonfunctionalBugs': [
+    'burgerButton': 'shifted to 40px left'
+    'navigation;: 'tranceparented' 
+      ] 
+}
