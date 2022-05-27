@@ -1,0 +1,9 @@
+{
+    'ratenumber': 1,
+    'studentsName': 'Ruslan'
+    'studentsSurname': 'Kirsanov'
+    'studentsAge': 26
+    'studentsEmail': 'kirsanovrus@outlook.com'
+    'status': 'open to work'
+    'wishSalary': '400'
+}
